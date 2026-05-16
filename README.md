@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Full-Stack Developer.
+
+Main stack:
+
+- Node.js / TypeScript
+- React / Next.js
+- WordPress / WooCommerce
+- PHP / Laravel
+- Docker
+- PostgreSQL / MySQL
+
+Interested in backend engineering, system architecture, APIs, and scalable applications.
