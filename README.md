@@ -17,13 +17,24 @@ Here are some ideas to get you started:
 
 I am a Full-Stack Developer.
 
-Main stack:
+🔭 I am working with:
 
-- Node.js / TypeScript
-- React / Next.js
-- WordPress / WooCommerce
-- PHP / Laravel
-- Docker
-- PostgreSQL / MySQL
+* Node.js / TypeScript / Express
+* React / Next.js
+* WordPress (6+ years of experience)
+* PHP / Laravel
+* Docker
+* Linux
+* PostgreSQL / MySQL / MongoDB / Redis
+
+
+🌱 I’m currently learning:
+
+* Designing Data-Intensive Applications (Martin Kleppmann & Chris Riccomini)
+* Clean Code (Robert C. Martin)
+* Database Internals (Alex Petrov)
+* Algorithmic problem solving on LeetCode
+* Full Stack Open course by the University of Helsinki
 
 Interested in backend engineering, system architecture, APIs, and scalable applications.
+
