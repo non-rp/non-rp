@@ -30,6 +30,7 @@ I am a Full-Stack Developer.
 
 🌱 I’m currently learning:
 
+* Finnish language
 * Designing Data-Intensive Applications (Martin Kleppmann & Chris Riccomini)
 * Clean Code (Robert C. Martin)
 * Database Internals (Alex Petrov)
